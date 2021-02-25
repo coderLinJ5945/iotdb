@@ -55,9 +55,24 @@ The features of TsFile is as follow:
 	* Spark and Hive
 	* etc. 
 
-## Online Documents
+## Online Documents 文档和代码版本已经不匹配啦
 * [Installation](https://github.com/thulab/tsfile/wiki/Installation)
 * [Get Started](https://github.com/thulab/tsfile/wiki/Get-Started)
 * [TsFile-Spark Connector](https://github.com/thulab/tsfile/wiki/TsFile-Spark-Connector)
+
+
+# linj
+
+## 0.11包目录结构
+
+```tsfile
+tsfile
+    |-common
+        |--cache
+        |--conf
+        |--constant
+    |-compress
+    
+```
 
  
